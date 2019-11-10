@@ -7,3 +7,9 @@ nbproject/
 *.tmp
 build/
 /.nb-gradle/
+/viikko2/Verkkokauppa1/.nb-gradle/
+/viikko2/Verkkokauppa1/build/
+/viikko2/Verkkokauppa1/.nb-gradle/build/
+*/build/
+*/.gradle/
+/viikko2/RiippuvuuksienInjektointiSpring/build/
