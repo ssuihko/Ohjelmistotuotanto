@@ -1,0 +1,9 @@
+/viikko1/NhlStatistics1/build/
+/viikko1/NhlStatistics1/.nb-gradle/
+/viikko1/NhlStatistics1/RiippuvuuksienInjektointi1/.nb-gradle/build/
+.gradle/
+nbproject/
+*.bin
+*.tmp
+build/
+/.nb-gradle/
