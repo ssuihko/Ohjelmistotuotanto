@@ -54,6 +54,6 @@ public class Stepdefs {
    public void userWithPasswordIsCreated(String string, String string2) {
         commandNewIsSelected();
         usernameAndPasswordAreEntered(string, string2);       
-  }
+   }
 
 }
