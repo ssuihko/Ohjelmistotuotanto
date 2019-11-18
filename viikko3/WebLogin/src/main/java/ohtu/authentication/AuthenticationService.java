@@ -50,10 +50,6 @@ public class AuthenticationService {
             status.addError("password and password confirmation do not match");
         }
 
-        if(userDao.findByName(username) != null) {
-            status.addError("username already taken");
-        }
-
         if (status.isOk()) {
             userDao.add(new User(username, password));
         }

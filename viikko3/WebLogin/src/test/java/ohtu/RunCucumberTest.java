@@ -10,8 +10,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
     plugin = "pretty", 
     features = "src/test/resources/ohtu", 
-    snippets = SnippetType.CAMELCASE,
-    tags = { "@problem" }
+    snippets = SnippetType.CAMELCASE
 
 )
 
