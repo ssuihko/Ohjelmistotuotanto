@@ -13,3 +13,5 @@ build/
 */build/
 */.gradle/
 /viikko2/RiippuvuuksienInjektointiSpring/build/
+/viikko4/Verkkokauppa/.nb-gradle/
+/viikko4/IntJoukkoSovellus/.nb-gradle/
